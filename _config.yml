@@ -1,3 +1,9 @@
 pygments: true
-markdown: rdiscount
+markdown: maruku
+permalink: none
+
+maruku
+    use_divs: true
+    use_tex: true
+    png_engine : blahtex
 
